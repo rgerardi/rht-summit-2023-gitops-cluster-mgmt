@@ -6,7 +6,7 @@ spec:
   backgroundColor: '#EE0000'
   color: '#fff'
   link:
-    href: https://www.redhat.com/en/summit
+    href: https://docs.openshift.com/container-platform/4.12
     text: (Event Information)
   location: BannerTop
-  text: Welcome to Red Hat Summit 2023!
+  text: Welcome to OpenShift
